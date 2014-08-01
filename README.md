@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-```bash
+```
 $ thjalfi new sample
       create  sample/Gemfile
       create  sample/Rakefile
