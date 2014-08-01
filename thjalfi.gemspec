@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Thjalfi::VERSION
   spec.authors       = ["arukoh"]
   spec.email         = ["arukoh10@gmail.com"]
-  spec.summary       = %q{Thhjalfi is CLI gem generator with Thor.}
-  spec.description   = %q{Thhjalfi is CLI gem generator with Thor.}
+  spec.summary       = %q{Thhjalfi is skeleton generator of CLI gem use Thor.}
+  spec.description   = %q{Thhjalfi is skeleton generator of CLI gem use Thor.}
   spec.homepage      = "https://github.com/arukoh/thjalfi"
   spec.license       = "MIT"
 

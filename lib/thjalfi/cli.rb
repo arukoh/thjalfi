@@ -42,7 +42,7 @@ module Thjalfi
       templates.each do |src, dst|
         template(src, target.join(dst), opts)
       end
-      Dir.chdir(target) { `git add .` }
+      Dir.chdir(target) { `chmod +x bin/#{name}; git add .` }
     end
   end
 end
